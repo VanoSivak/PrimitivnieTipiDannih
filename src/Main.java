@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
+        //Примитивные типы данные
         byte a = 1;
         short x = 2;
         int v = 3;
@@ -10,9 +11,7 @@ public class Main {
         char c = 'x';
         boolean b = false;
 
-
-
-
+        //Сылочные типы данные
         System.out.println();
         String s = "Petya";
     }
